@@ -24,7 +24,7 @@ const ProjectData =  [
     {
         imgsrc: gitImg,
         title: "AventureGame",
-        text: "Text adventure game in Java written in Android studio",
+        text: "Text adventure game in Java written in Android studio utilizing CSV files",
         github: "https://github.com/itsawednesday/adventureGame",
        
 
