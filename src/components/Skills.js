@@ -17,7 +17,7 @@ export const Skills = () => {
                     <h1 className='skills-header'>Technical Skills</h1>
                 </div>
             </Parallax>
-            {/* title */}
+          
 
             {/* skills section   skills-content-box  */}
 
